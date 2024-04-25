@@ -5,6 +5,7 @@
   width: 50%;
   margin: auto;
   margin-bottom: 80px;
+  color: white;
 }
 
 .carre-contenu h2,
@@ -49,4 +50,3 @@ td {
 caption {
   margin: 30px;
 }
-

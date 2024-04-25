@@ -8,6 +8,13 @@ body {
   background-color: rgb(32, 69, 26);
 }
 
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
 header,
 footer {
   background-color: white;
@@ -85,6 +92,10 @@ a:hover {
 .cta:hover {
   text-decoration: none;
   background: linear-gradient(#848064, #bab187);
+}
+
+section {
+  padding: 40px;
 }
 
 footer,
